@@ -2,6 +2,7 @@
     "name": "kk14569/flarum-blank-extension",
     "description": "Flarum 空白扩展模板",
     "type": "flarum-extension",
+    "license": "MIT",
     "version": "v1.0.0",
     "require": {
         "flarum/core": "^1.8.0"
